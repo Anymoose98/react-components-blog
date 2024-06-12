@@ -17,3 +17,14 @@
     border-top-left-radius: 40px;
     border-top-right-radius: 40px;
 }
+.bottone{
+    color: white;
+    background-color: black;
+    padding: 3px 10px 3px 10px;
+    border-radius: 15px;
+    border: solid 1px black;
+    &:hover{
+        background-color: white;
+        color: black;
+    }
+}

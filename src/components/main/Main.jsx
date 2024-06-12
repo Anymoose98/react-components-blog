@@ -11,6 +11,7 @@ const Main = () => {
                 <div classname={mainStyles.bgWhite}>
                     <h3>Dove universo e terra si incontrano</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <button className={mainStyles.bottone}>Leggi di più</button>
                 </div>
             </div>
         </main>
